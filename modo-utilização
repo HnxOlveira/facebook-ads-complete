@@ -1,28 +1,19 @@
 Utilize as bibliotecas disponibilizadas pelo facebook para uma melhor fluidez do código.
 
-Criar um app no Meta for Developers:
+Agora, crie um app no Meta for Developers:
 Vá até o Painel de Apps e crie um novo aplicativo.
-
 Adicione o produto Marketing API ao seu app.
 
 Gerar um token de acesso:
-
 Vá até Ferramentas > Obter token de acesso no painel do seu app.
-
 Gere um token com as permissões mínimas:
-
-ads_management
-
-ads_read
-
-read_insights
-
+- ads_management
+- ads_read
+- read_insights
 Certifique-se de que o usuário que gerar o token tenha permissão de administrador nas contas publicitárias que serão consultadas.
 
 Anote suas credenciais:
-
 app_id
-
 app_secret
-
 access_token
+OBS: em minha aplicação utilizei um arquivo .env para guardar minhas credenciais.
