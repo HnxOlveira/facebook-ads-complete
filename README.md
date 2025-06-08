@@ -11,6 +11,7 @@ Tecnologias
 - Meta Developers
 
 Como utilizar?
+
 Clone o repositório e instale as dependências necessárias.
 
 Este guia ajudará você a extrair facilmente os dados de suas campanhas publicitárias registradas na plataforma Meta. Existem vários filtros disponíveis na API; aqui utilizei alguns como exemplo, mas você pode personalizar conforme suas necessidades. Para conferir mais propriedades e funcionalidades, visite a documentação oficial da API.
