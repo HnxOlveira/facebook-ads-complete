@@ -1,0 +1,14 @@
+# Facebook Marketing API SDK
+facebook-business>=13.0.0
+
+# Core data libraries
+pandas>=1.1
+numpy>=1.18
+
+# AWS S3 access
+boto3>=1.16
+s3fs>=0.5.2
+pyarrow>=2.0.0
+
+# Environment‐variable loader
+python-dotenv>=0.15.0
