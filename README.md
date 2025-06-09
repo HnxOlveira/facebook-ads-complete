@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/1a58aecb-c106-4ac3-af84-e2b86c7a17a5)
 
 Facebook Ads Analytics 🎃
+
 Este projeto é voltado para a análise e otimização de campanhas publicitárias no Facebook Ads, utilizando Python e Pandas para insights rápidos e eficientes.
 
 Objetivo do Projeto
